@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-q5tubf.cdjl.com.br/sitemap.xml
